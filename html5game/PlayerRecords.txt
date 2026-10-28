@@ -1,0 +1,47 @@
+order	tag	stat	stat_text	qbname	playername	year	week	team	opponent	coachstat
+10	ui_LongPassingPlay	99	y	Brett Favre	Robert Brooks	1995	2	Packers	Bears	0
+20	ui_LongRushingPlay	99	y	0	Tony Dorsett	1982	9	Cowboys	Vikings	0
+30	ui_LongPassTD	99	y	Brett Favre	Robert Brooks	1995	2	Packers	Bears	0
+40	ui_LongRushTD	99	y	0	Tony Dorsett	1982	9	Cowboys	Vikings	0
+50	ui_LongPassAir	0	y	0	0	0	0	0	0	0
+60	ui_LongFG	66	y	0	Justin Tucker	2021	3	Ravens	Lions	0
+70	ui_BestPassGame	554	y	Norm Van Brocklin	Norm Van Brocklin	1951	1	Rams	Yanks	0
+80	ui_BestPassSeason	5477	y	Peyton Manning	Peyton Manning	2013	0	Broncos	0	0
+90	ui_BestPassCareer	80358	y	Drew Brees	Drew Brees	2020	0	Saints	0	0
+100	ui_BestRecGame	336	y	Jim Everett	Flipper Anderson	1989	12	Rams	Saints	0
+110	ui_BestRecSeason	1964	y	Matthew Stafford	Calvin Johnson	2012	0	Lions	0	0
+120	ui_BestRecCareer	22895	y	0	Jerry Rice	2004	0	49ers	0	0
+130	ui_BestRushGame	296	y	0	Adrian Peterson	2007	9	Vikings	Chargers	0
+140	ui_BestRushSeason	2105	y	0	Eric Dickerson	1984	0	Rams	0	0
+150	ui_BestRushCareer	18355	y	0	Emmitt Smith	2004	0	Cowboys	0	0
+160	ui_MostTDPassesGame	7		Nick Foles	Nick Foles	2013	9	Eagles	Raiders	0
+170	ui_MostTDPassesSeason	55		Peyton Manning	Peyton Manning	2013	0	Broncos	0	0
+180	ui_MostTDPassesCareer	649		Tom Brady	Tom Brady	2022	0	Buccaneers	0	0
+190	ui_MostTDRecGame	5		Joe Montana	Jerry Rice	1990	6	49ers	Falcons	0
+200	ui_MostTDRecSeason	23		Tom Brady	Randy Moss	2007	0	Patriots	0	0
+210	ui_MostTDRecCareer	197		0	Jerry Rice	2004	0	49ers	0	0
+220	ui_MostTDRushGame	6		0	Ernie Nevers	1929	0	Cardinals	Bears	0
+230	ui_MostTDRushSeason	28		0	LaDainian Tomlinson	2006	0	Chargers	0	0
+240	ui_MostTDRushCareer	164		0	Emmitt Smith	2004	0	Cowboys	0	0
+250	ui_BestFGDistGame	66	y	0	Justin Tucker	2021	3	Ravens	Lions	0
+260	ui_BestFGDistSeason	66	y	0	Justin Tucker	2021	0	Ravens	0	0
+270	ui_BestFGDistCareer	66	y	0	Justin Tucker	2021	0	Ravens	0	0
+280	ui_MostFGGame	8		0	Rob Bironas	2007	7	Titans	Texans	0
+290	ui_MostFGSeason	44		0	David Akers	2011	0	49ers	0	0
+300	ui_MostFGCareer	565		0	Morten Andersen	2007	0	Falcons	0	0
+310	ui_MostTacklesGame	24		0	Luke Kuechly	2013	0	Panthers	0	0
+320	ui_MostTacklesSeason	214		0	Hardy Nickerson	1993	0	Buccaneers	0	0
+330	ui_MostTacklesCareer	2643		0	Ray Lewis	2012	0	Ravens	0	0
+340	ui_MostSacksGame	7		0	Derrick Thomas	1990	10	Chiefs	Seahawks	0
+350	ui_MostSacksSeason	23		0	Myles Garrett	2025	0	Browns	0	0
+360	ui_MostSacksCareer	200		0	Bruce Smith	2003	0	Redskins	0	0
+370	ui_MostIntGame	4		0	Sammy Baugh	1943	0	Redskins	Lions	0
+380	ui_MostIntSeason	14		0	Dick "Night Train" Lane	1952	0	Rams	0	0
+390	ui_MostIntCareer	81		0	Paul Krause	1979	0	Vikings	0	0
+391	ui_MostFFGame	0		0	0	0	0	0	0	0
+392	ui_MostFFSeason	10		0	Charles Tillman	2012	0	Bears	0	0
+393	ui_MostFFCareer	54		0	Robert Mathis	2016	0	Colts	0	0
+400	ui_MostPointsGame	73		0	0	1940	0	Bears	Redskins	1
+410	ui_BiggestWin	73		0	0	1940	0	Bears	Redskins	1
+420	ui_BiggestLoss	73		0	0	1940	0	Redskins	Bears	1
+430	ui_MostTDsGame	11		0	0	1940	0	Bears	Redskins	1
